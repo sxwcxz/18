@@ -1,21 +1,22 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
-        "fileSize": 1601,
-        "status": 0,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 10892,
+        "status": 1,
+        "language": "en",
         "authors": [
-            "Jace"
+            "Sora"
         ],
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
-        "internalName": "İnstagram",
-        "description": "",
-        "url": "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/Example.cs3",
-        "name": "Example"
+        "version": 8,
+        "internalName": "GoodPorn",
+        "description": "(VPN) Premium porn with 4K support",
+        "url": "https://raw.githubusercontent.com/sxwcxz/18/builds/GoodPorn.cs3",
+        "name": "İnstagram"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
