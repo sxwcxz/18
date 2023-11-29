@@ -1,12 +1,12 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/sxwcxz/18/builds/insta.cs3",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "repositoryUrl": "https://www.instagram.com/sxwcxz/",
         "fileSize": 1601,
         "status": 0,
         "authors": [
-            "Jace"
+            "sxwcxz"
         ],
         "tvTypes": [
             "NSFW"
@@ -14,8 +14,8 @@
         "version": 1,
         "internalName": "Example",
         "description": "",
-        "url": "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/Example.cs3",
-        "name": "Example"
+        "url": "https://raw.githubusercontent.com/sxwcxz/18/builds/insta.cs3",
+        "name": "İnstagram"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
