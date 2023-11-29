@@ -12,10 +12,10 @@
             "NSFW"
         ],
         "version": 1,
-        "internalName": "Example",
+        "internalName": "İnstagram",
         "description": "",
         "url": "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/Example.cs3",
-        "name": "İnstagram"
+        "name": "Example"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
